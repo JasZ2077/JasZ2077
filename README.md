@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**JasZ2077/JasZ2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ITI
 - 🌱 I’m currently learning ITI
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: here
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love ITI
--->
+
